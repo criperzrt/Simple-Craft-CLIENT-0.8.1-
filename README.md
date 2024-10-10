@@ -18,7 +18,9 @@ another Minecraft version while having this).
 __com.simplecraft.client081__
 
 • Alpha Steve skin from Java.
+
 • Alpha Wool colors (__NEW__)
+
 •  Works on newer Android Versions. (__14+__)
 
 ----------------------------------------
