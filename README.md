@@ -1,5 +1,5 @@
 
-_Simple Craft CLIENT v1.2.5 [0.8.1]_
+_Simple Craft CLIENT v1.3 [0.8.1]_
 
 _Update Features:_
 
@@ -7,7 +7,7 @@ _Update Features:_
 
 • Widescreen Support.
 
-• 0.4.0/0.5.0 Old Alpha buttons (__UPDATED__).
+• 0.4.0/0.5.0 Old Alpha buttons (__REMOVED TEMPORALY__).
 
 • Food with their old textures. (__UPDATED AND CORRECTED__).
 
@@ -21,13 +21,15 @@ __com.simplecraft.client081__
 
 • Alpha Wool colors (__NEW__)
 
-•  Works on newer Android Versions. (__14+__)
+•  Works on newer Android Versions. (__14+__
+•  Skin Supporting (__NEW__)
 
 ----------------------------------------
 
 credits:
 apk made by: @benitocamela3000 / @creeperoblox._
 thanks  to: @humblepotatofarmer(server owner)
+skin supporting help by: @MineDg
 
 ----------------------------------------
 
